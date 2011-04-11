@@ -18,7 +18,7 @@ BuildRequires:	rpmbuild(macros) >= 1.610
 Requires:	php-channel(pear.horde.org)
 Requires:	php-horde-Horde_Exception <= 2.0.0
 Requires:	php-horde-Horde_Util <= 2.0.0
-Requires:	php-pear
+Requires:	php-pear >= 4:1.3.6-2
 Suggests:	php-horde-Horde_Db
 Suggests:	php-horde-Horde_Ldap
 Conflicts:	php-horde-Horde_Exception = 2.0.0
