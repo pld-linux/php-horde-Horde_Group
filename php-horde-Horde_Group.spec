@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde User Groups System
 Name:		php-horde-Horde_Group
-Version:	1.0.2
+Version:	1.0.3
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	fdffb29b0f9cb82142d001448e4540df
+# Source0-md5:	75edeb889d1d2839f1d5905c9d782068
 URL:		https://github.com/horde/horde/tree/master/framework/Group/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
