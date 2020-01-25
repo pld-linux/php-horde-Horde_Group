@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Group
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde User Groups System
 Name:		php-horde-Horde_Group
 Version:	1.0.5
